@@ -1,5 +1,7 @@
 # VeDroid Service
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=VeDroid+Service+-+НОВАЯ+ЭРА+ИНТЕРНЕТА)](https://git.io/typing-svg)
+
 [![Stars](https://img.shields.io/github/stars/sijeydev/VeDroid--Service?style=flat&logo=github&label=Stars&color=0e75b6)](https://github.com/sijeydev/VeDroid--Service/stargazers)
 [![Visitors](https://komarev.com/ghpvc/?username=sijeydev&repo=VeDroid--Service&label=Visitors&color=0e75b6&style=flat)](https://github.com/sijeydev/VeDroid--Service)
 [![Issues](https://img.shields.io/github/issues/sijeydev/VeDroid--Service?style=flat&label=Issues&color=0e75b6)](https://github.com/sijeydev/VeDroid--Service/issues)
