@@ -1,12 +1,12 @@
 # VeDroid Service
 
-**Платформа управления сетевыми политиками для Android.**
-
 [![Stars](https://img.shields.io/github/stars/sijeydev/VeDroid--Service?style=flat&logo=github&label=Stars&color=0e75b6)](https://github.com/sijeydev/VeDroid--Service/stargazers)
 [![Visitors](https://komarev.com/ghpvc/?username=sijeydev&repo=VeDroid--Service&label=Visitors&color=0e75b6&style=flat)](https://github.com/sijeydev/VeDroid--Service)
 [![Issues](https://img.shields.io/github/issues/sijeydev/VeDroid--Service?style=flat&label=Issues&color=0e75b6)](https://github.com/sijeydev/VeDroid--Service/issues)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Email](https://img.shields.io/badge/Email-sijeydev%40gmail.com-0e75b6?logo=gmail&logoColor=white)](mailto:sijeydev@gmail.com)
+
+**Платформа управления сетевыми политиками для Android.**
 
 `VeDroid Service` представляет собой системную утилиту, предназначенную для детерминированной маршрутизации IP-трафика на уровне отдельных приложений. Решение позволяет администратору устройства задавать гибкие правила обработки сетевых запросов, оптимизируя использование каналов связи в условиях сложной или нестабильной сетевой топологии.
 
